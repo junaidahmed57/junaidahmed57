@@ -1,19 +1,17 @@
 ## Android Developer with a Passion for Jetpack Compose
 
-Welcome to my Github! A Passionate Developer Skilled in Creating High-quality Android Applications.
+Welcome to my Github! 📱 Enthusiastic Android Developer with 4 years of professional experience in native Android development. Specializing in end-to-end development, I excel in transforming complex requirements into user-friendly solutions while ensuring scalability, security, and optimal performance. Experienced in working with teams and also independently for effective end-to-end development.
 
-### ⚡Skills
-Here are some of the skills I bring to the table:
+💼 Key Skills:
 
-- **Jetpack Compose**: I have extensive experience in building modern, declarative UIs for Android using Jetpack Compose.
-
-- **Retrofit, Ktor**: I have a strong background in working with Ktor as well as Retrofit for making RESTful API calls.
-
-- **Room, Realm**: I'm well-versed in database technologies Room and Realm, for efficient and scalable data storage solutions.
-
-- **Hilt, Koin**: Dependency injection is crucial in modern app development, and I have experience using Hilt and Koin.
-
-- **CI/CD**: I understand the importance of Continuous Integration and Continuous Deployment (CI/CD).
-
+ • Expertise in Java, Kotlin, and the Android SDK
+ • Proficient in advanced architectural patterns like MVVM and Clean Architecture
+ • UI → Jetpack Compose, XML
+ • Network → Retrofit, Ktor, RESTful API's 
+ • Database → Room, Realm
+ • Dependency Injection → Dagger/Hilt, Koin, Manual DI
+ • Async Data → Coroutine, Flow
+ • Testing → Unit Testing, UI Testing
+ • Others → NodeJS/Ktor for backend API's, Python for scripting/scrapping, Linux
 
 💬 Feel free to reach out if you have any questions or need help with any of these technologies 🚀.
