@@ -4,8 +4,8 @@ Welcome to my Github! 📱 Enthusiastic Android Developer with 5 years of profes
 
 ### 💼 Key Skills:
 
- - Expertise in Java, Kotlin, and the Android SDK
- - Proficient in advanced architectural patterns like MVVM and Clean Architecture
+ - Core → Expertise in Java, Kotlin, and the Android SDK
+ - Architecture → Proficient in advanced patterns like MVVM and Clean Architecture
  - UI → Jetpack Compose, XML
  - Network → Retrofit, Ktor, RESTful API's 
  - Database → Room, Realm
