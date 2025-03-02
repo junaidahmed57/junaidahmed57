@@ -1,6 +1,6 @@
 ## Android Developer with a Passion for Jetpack Compose
 
-Welcome to my Github! 📱 Enthusiastic Android Developer with 5 years of professional experience in native Android development. Specializing in end-to-end development, I excel in transforming complex requirements into user-friendly solutions while ensuring scalability, security, and optimal performance. Experienced in working with teams and also independently for effective end-to-end development.
+Welcome to my Github! 📱 Enthusiastic Android Developer with 5 years of professional experience in native Android development. Specializing in end-to-end development, I excel in transforming complex requirements into user-friendly solutions while ensuring scalability, security, and optimal performance. Experienced in working with teams and also independently for effective development.
 
 ### 💼 Key Skills:
 
